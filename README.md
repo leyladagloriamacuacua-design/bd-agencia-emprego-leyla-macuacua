@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Nome** | <O SEU NOME COMPLETO> |
+| **Nome** | <Leyla da Gloria Macuacua> |
 | **Curso / Ano** | Licenciatura em Informática — 2.º ano |
 | **Disciplina** | Tecnologias de Base de Dados |
 | **Tema** | Agência de emprego (candidatos, empresas, vagas, candidaturas e entrevistas) |
@@ -82,13 +82,13 @@ Em alternativa, abrir os ficheiros no MySQL Workbench e executar com o raio ⚡.
 
 ## 6. Resumo da base de dados
 
-| Tabela | Registos | Observação |
+| Tabela | Registos | O que guarda |
 |---|---|---|
-| area_profissional | 20 | |
-| utilizador | 46 | 2 administradores, 4 funcionários, 20 candidatos, 20 empresas |
-| candidato | 20 | |
-| experiencia_profissional | 33 | entidade fraca |
-| empresa | 20 | |
-| vaga | 26 | |
-| candidatura | 32 | |
-| entrevista | 22 | |
+| area_profissional | 20 | Categorias das vagas (TI, saúde, educação...) |
+| utilizador | 46 | Contas de acesso: 2 administradores, 4 funcionários, 20 candidatos, 20 empresas |
+| candidato | 20 | Dados pessoais, nível académico e profissão |
+| experiencia_profissional | 33 | Empregos anteriores de cada candidato (entidade fraca) |
+| empresa | 20 | Empresas que publicam vagas |
+| vaga | 26 | Ofertas de emprego |
+| candidatura | 32 | Candidaturas de candidatos a vagas |
+| entrevista | 22 | Entrevistas agendadas e respetivo resultado |
