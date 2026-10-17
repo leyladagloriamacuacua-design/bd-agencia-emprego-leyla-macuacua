@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Nome** | <Leyla da Gloria Macuacua> |
+| **Nome** | Leyla da Gloria Macuacua |
 | **Curso / Ano** | Licenciatura em Informática — 2.º ano |
 | **Disciplina** | Tecnologias de Base de Dados |
 | **Tema** | Agência de emprego (candidatos, empresas, vagas, candidaturas e entrevistas) |
