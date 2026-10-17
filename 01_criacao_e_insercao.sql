@@ -1,7 +1,7 @@
 -- =====================================================================
 -- Projecto de Base de Dados: Agência de Emprego (Elo Emprego)
 -- Disciplina: Tecnologias de Base de Dados - 2.º ano, Licenciatura em Informática
--- Autor: <O SEU NOME COMPLETO>
+-- Autor: <Leyla Macuacua>
 -- SGBD: MySQL 8.0+ (executar de raiz, sem erros)
 -- Ficheiro 1/2: criação da base de dados, tabelas e inserção de registos
 -- =====================================================================
