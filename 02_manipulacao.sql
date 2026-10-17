@@ -1,6 +1,6 @@
 -- =====================================================================
 -- Projecto de Base de Dados: Agência de Emprego (Elo Emprego)
--- Autor: <O SEU NOME COMPLETO>
+-- Autor: <Leyla Macuacua>
 -- Ficheiro 2/2: manipulação dos dados (SELECT, JOIN, UPDATE, DELETE, integridade)
 -- Pré-requisito: ter executado 01_criacao_e_insercao.sql
 -- Cada comando tem o "RESULTADO ESPERADO" escrito ANTES de ser executado.
