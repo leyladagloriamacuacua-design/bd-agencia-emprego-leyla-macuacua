@@ -7,7 +7,7 @@
 | **Disciplina** | Tecnologias de Base de Dados |
 | **Tema** | Agência de emprego (candidatos, empresas, vagas, candidaturas e entrevistas) |
 | **SGBD** | MySQL 8.0+ |
-| **Vídeo** | <COLAR AQUI O LINK DO YOUTUBE> |
+| **Vídeo** | https://youtu.be/XpbuORFMgvk?si=ANzu3e8n8nRCx9O5 |
 
 ## 1. Descrição do problema
 
